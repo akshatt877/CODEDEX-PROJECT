@@ -1,0 +1,34 @@
+{
+  "2025-09-29 23:30": {
+    "mood": "\ud83d\ude0c Calm",
+    "intensity": 9,
+    "timestamp": "2025-09-29 23:30",
+    "weather": "Cloudy"
+  },
+  "2025-09-29 23:36": {
+    "mood": "\ud83d\ude34 Tired",
+    "intensity": 5,
+    "timestamp": "2025-09-29 23:36",
+    "weather": "Rainy"
+  },
+  "2025-09-29 23:42": {
+    "mood": "\ud83e\udd17 Excited",
+    "intensity": 5,
+    "timestamp": "2025-09-29 23:42",
+    "weather": "Sunny",
+    "temperature": 12,
+    "notes": "Happy for the Project which I have worked is doing good and gathering attention",
+    "day_of_week": "Monday",
+    "hour": 23
+  },
+  "2025-09-29 23:44": {
+    "mood": "\ud83e\udd70 Content",
+    "intensity": 10,
+    "timestamp": "2025-09-29 23:44",
+    "weather": "Sunny",
+    "temperature": 12,
+    "notes": "Very good as the project is working time to time ",
+    "day_of_week": "Monday",
+    "hour": 23
+  }
+}
